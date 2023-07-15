@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  #message {
+    font-weight: bold;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .green {
+    color: green;
+  }
+  
